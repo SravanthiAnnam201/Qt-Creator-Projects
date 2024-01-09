@@ -1,0 +1,17 @@
+# ninja log v5
+4	2378	7265123836628179	project1_autogen/timestamp	13fd7f58f86ada2c
+4	2378	7265123836628179	project1_autogen/mocs_compilation.cpp	13fd7f58f86ada2c
+4	2378	7265123836628179	D:/C++ Projects/QT projects/build-project1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/project1_autogen/timestamp	13fd7f58f86ada2c
+4	2378	7265123836628179	D:/C++ Projects/QT projects/build-project1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	13fd7f58f86ada2c
+2380	10261	7265123918150434	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	92a0153cfe6e7f1c
+2403	10533	7265123920863017	CMakeFiles/project1.dir/main.cpp.obj	f07816943d4384e4
+2423	10909	7265123924671469	CMakeFiles/project1.dir/mainwindow.cpp.obj	fedebb130d7407c
+10913	11715	7265123932604849	project1.exe	77cc8dd3ce608b10
+30	1175	7265143975897022	project1_autogen/timestamp	13fd7f58f86ada2c
+30	1175	7265143975897022	project1_autogen/mocs_compilation.cpp	13fd7f58f86ada2c
+30	1175	7265143975897022	D:/C++ Projects/QT projects/build-project1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/project1_autogen/timestamp	13fd7f58f86ada2c
+30	1175	7265143975897022	D:/C++ Projects/QT projects/build-project1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	13fd7f58f86ada2c
+1176	5433	7265144019510310	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	92a0153cfe6e7f1c
+1181	5532	7265144020560260	CMakeFiles/project1.dir/main.cpp.obj	f07816943d4384e4
+1186	5955	7265144024775849	CMakeFiles/project1.dir/mainwindow.cpp.obj	fedebb130d7407c
+5956	6443	7265144029479236	project1.exe	77cc8dd3ce608b10
